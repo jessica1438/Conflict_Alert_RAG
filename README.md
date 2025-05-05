@@ -19,7 +19,7 @@ Features:
     
 8) CI/CD automation using GitHub Actions
 
-🏗 Project Setup
+## Project Setup
 
 1️⃣ Local Run (For Testing)
 
@@ -74,9 +74,9 @@ terraform apply
 ```
 Terraform will provision ECS Fargate + ALB + Security Groups and deploy the app.
 
-🛣 Future Roadmap
+## Future Roadmap
 
-✅ Current: Basic conflict detection + RAG answering + cloud deployment🔜 Next:
+### Current: Basic conflict detection + RAG answering + cloud deployment🔜 Next:
 
 Add real-time monitoring + logging (CloudWatch)
 
