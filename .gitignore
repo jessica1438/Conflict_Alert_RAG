@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore local environment files
+.env
+
+# Ignore Terraform local state
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Ignore Docker-specific files (optional if you don’t want to push them)
+*.log
+
+# Ignore VSCode settings (if you don’t want to push your editor configs)
+.vscode/
