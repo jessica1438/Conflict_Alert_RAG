@@ -76,16 +76,16 @@ Terraform will provision ECS Fargate + ALB + Security Groups and deploy the app.
 
 ## Future Roadmap
 
-### Current: Basic conflict detection + RAG answering + cloud deployment🔜 Next:
+Current: Basic conflict detection + RAG answering + cloud deployment🔜 Next:
 
-Add real-time monitoring + logging (CloudWatch)
+-Add real-time monitoring + logging (CloudWatch)
 
-Integrate unit + integration tests for CI/CD pipeline
+-Integrate unit + integration tests for CI/CD pipeline
 
-Add user authentication + role-based access
+-Add user authentication + role-based access
 
-Improve vector search with hybrid (text + metadata) retrieval
+-Improve vector search with hybrid (text + metadata) retrieval
 
-Scale ECS service with autoscaling policies
+-Scale ECS service with autoscaling policies
 
-Add frontend polish + multi-language support
+-Add frontend polish + multi-language support
