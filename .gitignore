@@ -10,8 +10,8 @@ __pycache__/
 terraform.tfstate
 terraform.tfstate.backup
 
-# Ignore Docker-specific files (optional if you don’t want to push them)
+# Ignore Docker-specific files 
 *.log
 
-# Ignore VSCode settings (if you don’t want to push your editor configs)
+# Ignore VSCode settings 
 .vscode/
